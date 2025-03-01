@@ -1,0 +1,96 @@
+a)Where do use explccitly use Object class?
+b)Stored procedures inhibernate
+c)versions of Struts,Spring and hibernate
+d)How you will generate mapping files and persistent object?Can you explicitly write your hbm.xml and persistent objects
+e)Lock API and Thread Executors(Java Concurrency)
+f)JMS/MQ
+g)Design Pattern
+h)Object class?
+i)why do you need an object class?
+j)Where expliciltly you have used Object class?
+k)How your class gets a reference of an Object class?We dont use the keyword extend,then how?
+l)equals and hashcode
+m)How equality is checked?hashcode and equals method?
+n)Apart from Set where else we can use hashcode and equals?
+o)implementation of HashMap
+p)internal implementation of arraylist?default value?
+q)what is the implementation if we try to insert 11th element in to the arraylist?
+r)How an arraylist will refer to the different arrays created?internal working
+s)internal implementation of Collection?how to make hashmap thread safe
+t)collision in hashmap.
+u)how collision may happen within a single thread?
+v)How hashtable is created?Complexity of hashtable
+w)what is synchronization?how will you synchronize a hashmap
+x)overiden methods/overloaded method?asked whether static method be overriden?
+y)method hiding?
+z)Serialization?internal implementation?
+a1)scenario where serialization appears?
+a2)codes for serializing?
+a3)What kind of file s preffered as a parameter in Serialization
+a4)Methods in Serializable interface?
+a5)Marker interface?what is the use of marker interface?
+a6)3rd highest salary in the table?
+a7)what are indexes?what is a clustered indexes?
+a8)wanted to know about the internal working of indexes...created one more lookup table?it can be an overhead?
+   how indexes can then solve this problem?
+a9)implicit elements in JSP.What is out ?object of which class?
+a10)name some more implicit object?
+a11)what is PageContext?ServletConfig object?
+a12)typecasting a timestamp to date?
+a13)ContextListenerClass?how will you configure? 
+a14)difference between struts1.2 and 2
+a15)Flow of struts2?
+a15)which method of a action class gets executed?
+a16)servlet life cycle?how can we call init method twice?
+a17)when a destroy method gets called?
+a18)What is AJAX?return type of AJAX?Platform independent ot dependent?
+a19)What is JSON?
+a20)JAXB
+a21)how to access an application globally?server location in india but access from USA,JAPAN etc.
+a22)DependencyInjection?how to achieve?internal implementation?
+
+
+Can we load the Singleton class twice via Custom Class Loader, if yes how restrict the same ?
+how to make your singleton class Reflection safe (since multiple objects can be created via making private constructor call using reflection)?
+How does the expansion of HaspMap happens, consider the case of badly written hascode method which always returns constant value ?
+explain Liveliness and Safety Failures ?
+when to use Atomic Variables, Volatile variables and Synchronized methods ?
+there are overloaded methods as display(String Name) and display(StringBuffer Name) in a class, which would be called when a call is made as display(null) ?
+A thread has made a WebService call and you want to kill the thread if response doesn't come 1 sec, how will you do the same?
+if I have an abstract class with private constructor, then can we  create the child class's object ?
+write an algorithm to find if a number given is an exact power of 2 (don't write basic recursive algo) ?
+JVMs interal memory management and movement of objects from s1 to s2 ?
+
+2. Immutable class, Mutable reference
+3. Singleton class
+4. enums, when
+5. Arraylist vs Linked list, given a scenario which one to use
+6. Interface vs abstract class, given a scenario which one to use
+7. Calling a method which throws a run time exception. Precautions
+8. Exceptions, types, which to use when
+9. Methods of object class with there use
+10. Features of java 5
+11. Generics, use of generics
+12. How will you create your own cache
+13.  How to write your own immutable class.
+14. Lock Interface use, vs synchronized block
+15. Concurrent hashmap
+16. Fail Safe vs Fail Fast iterator
+
+ Class level details of work done in project, important classes and methods, design patterns used.
+4. concurrent HashMap vs HashMap
+5. thread related methods of object class, better alternatives for these methods in newer version of java
+6. what is DI, advantages, disadvantages, alternatives to di
+7. equlas & hashcode implementation in your project
+8. some questions about the project
+9. collections used in project, why do you have used this collection e.g. HashMap
+
+
+2. Singleton design pattern internal implementation
+3. Double checking & Lazy initialization
+4. Creating an Immutable class, why is it required etc
+5. How to create a customized collection exactly same like an array list
+6. Hashmap working and implementation
+7. What if we don't override hashcode and equals method
+8. Database questions - Prepared statement, Callable, Stored procedures, Joins etc
+10. Scenario based questions

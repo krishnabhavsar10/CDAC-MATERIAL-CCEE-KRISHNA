@@ -1,0 +1,52 @@
+Coding Questions:
+
+1.	Write a program for counting the number of every character of a given text file.
+2.	Write a program to check prime number?
+3.	Write a program to check Armstrong number?
+4.	Write a program to print factorial of given number without using recursion?
+5.	Write a program of Fibonacci series using generators 
+6.	Program to find n’th Fibonacci number
+7.	Write a program to print Fibonacci series without using recursion?
+8.	Write a program to print Fibonacci series using recursion?
+9.	Write a program to check prime number?
+10.	Write a program to check palindrome number?
+11.	Write a program to print factorial of given number without using recursion?
+12.	Write a program to check Armstrong number?
+13.	Write a program to reverse a given number?
+14.	Given a list and find even numbers in that list using lambda function
+15.	Remove duplicates from an array?
+16.	Write a program to get the higher and lower nibble of a byte without using shift operator?
+17.	Write a program to check if it is a palindrome number or not using a recursive method.
+18.	Write a program to check the given number format is in binary or not.
+19.	Write a program to find a sum of digits of a number using recursion.
+20.	Write a program to Add Two Numbers Without Using the Addition Operator
+21.	Write a program to Subtract Two Number Without Using Subtraction Operator
+22.	Write a program to Multiply an Integer Number by 2 Without Using Multiplication Operator
+23.	Write a program to Check whether the number is EVEN or ODD, without using any arithmetic or relational operators
+24.	Write a program to Reverse the Linked List. Input: 1->2->3->4->5->NULL Output: 5->4->3->2->1->NULL
+25.	Write a program to Check for Balanced Parentheses using Stack
+26.	Write a program to find the node at which the intersection of two singly linked lists begins.
+27.	Write a program to Merge Two sorted Linked List
+28.	Write a program to swap two numbers without using the third variable?
+29.	Write a program which takes a variable number of arguments.
+30.	Write a program which takes a sequence of numbers and check if all numbers are unique.
+31.	Write a program for counting the number of every character of a given text file.
+32.	Write a program to check and return the pairs of a given array A whose sum value is equal to a target value N.
+33.	Write a Program to add two integers > 0 without using the plus operator.
+34.	Write a Program to solve the given equation assuming that a,b,c,m,n,o are constants:
+	a.	ax + by = c
+	b.	mx + ny = o
+35.	Write a Program to match a string that has the letter ‘a’ followed by 4 to 8 'b’s.
+36.	Write a Program to convert date from yyyy-mm-dd format to dd-mm-yyyy format.
+37.	Write a Program to combine two different dictionaries. While combining, if you find the same keys, you can add the values of these same keys. Output the new dictionary
+38.	How will you access the dataset of a publicly shared spreadsheet in CSV format stored in Google Drive?
+39. 	How to reverse the order of words in a given string?
+40. 	How to reverse each word in a given string?
+41.	How to count the occurrence of each character in a string?
+42.	How to find all possible substring of a given string?
+43.	How to perform Left and Right circular rotation of an array?
+44.	How to find if a positive integer is a prime number or not?
+45.	How to find the sum of digits of a positive integer?
+46.	How to find second largest integer in an array using only one loop?
+47.	How to find the angle between hour and minute hands of a clock at any given time?
+
