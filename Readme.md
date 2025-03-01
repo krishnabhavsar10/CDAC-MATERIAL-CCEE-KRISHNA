@@ -14,6 +14,8 @@ This repository consolidates a variety of essential study materials that helped 
 - **Prepare for interviews** with curated questions and Java-specific materials.
 - **Keep track of your syllabus** with both a combined and individual subject syllabi.
 
+The Entire File Size is around 614MB.
+
 _Wishing you success in your CDAC journey and a bright career ahead!_
 
 ---
