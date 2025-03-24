@@ -6,7 +6,7 @@ Welcome to the repository! This resource hub is designed to empower you with com
 
 ## Overview
 
-This repository consolidates a variety of essential study materials that helped me secure a 76% score in the CCEE exam. By leveraging these resources, you can:
+This repository consolidates a variety of essential study materials that helped me secure a 85% score in the CCEE exam. By leveraging these resources, you can:
 
 - **Strengthen core concepts** through detailed subject notes.
 - **Enhance exam readiness** with a wide range of multiple-choice questions, question banks, and previous year questions.
