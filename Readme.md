@@ -1,6 +1,6 @@
 # CDAC MATERIAL - CCEE Resources for PG-DAC
 
-Welcome to the repository! This resource hub is designed to empower you with comprehensive notes, MCQs, lab assignments, interview preparation material, and detailed syllabi—all curated to help you master the CCEE exam for the PG-DAC course at CDAC.
+Welcome to the repository! This resource hub is designed to empower you with comprehensive notes, MCQs, lab assignments, interview preparation material, and detailed syllabi—all curated to help you master the CCEE exam for the PG-DAC course at CDAC, which is now renamed to PG Certificate Programme in Advanced Computing (PGCP-AC) 
 
 ---
 
